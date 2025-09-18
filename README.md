@@ -8,3 +8,9 @@ Addition.
 Subtraction.  
 Multiplication.  
 Division.  
+
+How to Run.  
+Clone the repo or download the file.  
+Run this command.  
+'''bash.  
+python project_calculator.py
