@@ -1,3 +1,4 @@
 # Calculator-project
 A simple calculator project made with python.
-First project
+<br>
+My First Project beginner friendly 
