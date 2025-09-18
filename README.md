@@ -13,4 +13,10 @@ How to Run.
 Clone the repo or download the file.  
 Run this command.  
 '''bash.  
-python project_calculator.py
+python project_calculator.py <br>
+
+Author.  
+Rajib Sadhu.  
+Profile - (www.linkedin.com/in/rajib-sadhu-118ab3384)
+
+
